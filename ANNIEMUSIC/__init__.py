@@ -5,7 +5,7 @@ from ANNIEMUSIC.core.userbot import Userbot
 from ANNIEMUSIC.misc import dbb, heroku
 
 from SafoneAPI import SafoneAPI
-from .logging import LOGGER
+from ANNIEMUSIC.logging import LOGGER
 
 dirr()
 git()
